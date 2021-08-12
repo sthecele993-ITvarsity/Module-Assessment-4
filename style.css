@@ -1,0 +1,32 @@
+h1{
+    color: cornflowerblue;
+}
+td{
+    color: black;
+    
+}
+table {
+    font-family : Helvetica, sans-serif;
+     border-collapse: collapse;
+}
+
+
+th { 
+    font-weight: 800;
+}
+
+
+
+th {
+    font-weight         : 800
+    background-colour   : #2695A6;
+    color               : #ffffff;
+}
+
+table{
+    font-family        : Helvetica, sans-serif;
+    border-collapse    : collapse;
+    border-width       : 1px;
+    border-style       : solid;
+    border-color       : #2695A6;
+}
